@@ -11,8 +11,8 @@
 </p>
 
 
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=hyochan)
-![github-trophies](https://stats.hyo.dev/api/github-trophies?login=hyochan)
+<a href="https://stats.hyo.dev/stats/elandramaulana"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=elandramaulana" width="600" /></a>
+<a href="https://stats.hyo.dev/stats/elandramaulana"><img src="https://stats.hyo.dev/api/github-trophies?login=elandramaulana" width="600" /></a>
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
