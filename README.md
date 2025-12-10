@@ -10,6 +10,10 @@
 <a href="https://www.linkedin.com/in/elandra-maulana-391140206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elandra maulana" height="30" width="40" /></a>
 </p>
 
+
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=hyochan)
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=hyochan)
+
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" title="Xcode"/></code>
@@ -31,5 +35,5 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberri Pi" title="Raspberri Pi"/></code>
 </div>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=elandramaulana)](https://github.com/LordDashMe/github-contribution-stats/)
+
 
