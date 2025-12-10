@@ -10,8 +10,6 @@
 <a href="https://www.linkedin.com/in/elandra-maulana-391140206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elandra maulana" height="30" width="40" /></a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elandramaulana&theme=2077)
-
 <a href="https://stats.hyo.dev/stats/elandramaulana"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=elandramaulana" width="600" /></a>
 <a href="https://stats.hyo.dev/stats/elandramaulana"><img src="https://stats.hyo.dev/api/github-trophies?login=elandramaulana" width="600" /></a>
 
