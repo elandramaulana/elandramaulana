@@ -10,6 +10,8 @@
 <a href="https://www.linkedin.com/in/elandra-maulana-391140206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elandra maulana" height="30" width="40" /></a>
 </p>
 
+
+<h1>Tech Stack</h1>
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" title="Xcode"/></code>
